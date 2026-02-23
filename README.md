@@ -21,7 +21,7 @@ You are now trapped here for an hour. The scAInce will only release control if y
 1. Prove you are human
 2. Hack into the system to turn off *Autoprotection Mode*.
 
-You have <p style=“color:red”; font-size: 20px;>one hour</p> to do whatever your can in these missions. 
+You have <code style="color : red">***one hour***</code> to do whatever your can in these missions. 
 
 
 ## To start the challenge ...
